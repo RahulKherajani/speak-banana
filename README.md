@@ -1,2 +1,2 @@
 # speak-banana
- Minion Code Minion Speak
+ Minion Codes Minion Speak
